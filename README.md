@@ -11,10 +11,10 @@ Website portofolio pribadi dengan pendekatan desain bersih, monokromatik abu-abu
 - **Hierarki Tipografi Tajam**: Menggunakan font modern *Plus Jakarta Sans* dengan pengaturan *letter-spacing* dan *line-height* yang nyaman dibaca.
 - **Ruang Kosong (*Whitespace*) yang Luas**: Layout berbasis grid terstruktur yang memberikan fokus maksimal pada karya dan konten Anda.
 - **Interaktivitas Halus (*Subtle Micro-interactions*)**:
-  - Filter kategori proyek portofolio instan tanpa memuat ulang halaman (*Semua, Web App, UI/UX System, Open Source*).
+  - Filter kategori proyek portofolio instan tanpa memuat ulang halaman (*Semua Proyek, Web Application, Full-Stack System, Frontend*).
   - Salin alamat surel cepat (*One-click copy to clipboard*) dengan notifikasi *toast* minimalis.
+  - Akses langsung unduh/baca berkas CV PDF resmi dari tombol Hero.
   - Formulir kontak interaktif dengan validasi *client-side* dan umpan balik status pengiriman yang informatif.
-  - Penunjuk waktu nyata lokal (WIB / GMT+7) yang diperbarui secara dinamis.
   - Navigasi responsif (*Mobile Drawer Navigation*) yang ramah layar sentuh dan aksesibilitas keyboard (*Esc* key & *focus-visible*).
 
 ---
